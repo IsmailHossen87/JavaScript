@@ -1,4 +1,4 @@
-// Practice 1 
+// Practice 1        Page -- 86
 const invite = true 
 const taka = 500
 
@@ -13,7 +13,7 @@ if(invite){
     console.log("He is not my friend")
 }
 
-// Practice 2
+// Practice 2           
 const wantsTea = true
 const wantsBuiscuit = false
 if(wantsTea){
